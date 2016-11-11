@@ -1,0 +1,2 @@
+# accordions
+angular-ui accordions
